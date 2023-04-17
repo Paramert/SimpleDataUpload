@@ -2,7 +2,7 @@
 
 // Getting parameters from the request
 // You can change the number or name of requests
-//type: GET. You can change on the POST
+//type: GET. You can change on the POST 
 $nick = $_GET['nick'];
 $UID = $_GET['UID'];
 $id = $_GET['id'];
