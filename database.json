@@ -1,0 +1,15 @@
+[
+    {
+    "1_comment": "this is a simple example that creates a php script",
+    "2_comment": "link for transmitting parameters: https://site.ru/upload.php?nick=null&id=null...",
+    "3_comment": "Please note, this method is very vulnerable to data storage",
+
+            "Session": "null",
+            "nick": "null",
+            "UID": null,
+            "id": null,
+            "data": null,
+            "used_massage": "",
+            "city": null
+    }    
+]  
